@@ -4,5 +4,7 @@ This repository contains the concepts learnt as a part of Machine Learning Lab c
 It contains folders corresponding to each lab with the following information:
 
 Notebook containing the python takeaways from lab
+
 README file for each lab to explain the tasks done in that file
+
 Dataset used (if any)
