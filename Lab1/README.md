@@ -1,10 +1,10 @@
-#Machine Learning Lab: Housing Price Data Analysis
+# Machine Learning Lab: Housing Price Data Analysis
 
-##Project Overview
-###Implement Linear Regression Model Using US Housing Data
+## Project Overview
+### Implement Linear Regression Model Using US Housing Data
 
 
-####Import the required Python, Pandas, Matplotlib, Seaborn packages
+#### Import the required Python, Pandas, Matplotlib, Seaborn packages
 1. Load the US Housing data into a dataframe using pandas
 2. Check the data types of each feature(column) in the dataset.
 3. Generate a summary of the dataset for min, max, stddev,
