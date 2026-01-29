@@ -14,32 +14,32 @@ To apply descriptive statistical techniques to summarize and interpret the Wine 
 
 ---
 
-## 📊 Descriptive Statistical Techniques Applied
+## Descriptive Statistical Techniques Applied
 
 The following statistical measures were computed to understand the dataset:
 
-### 🔹 Measures of Central Tendency
+### Measures of Central Tendency
 - Mean
 - Median
 - Mode
 
-### 🔹 Measures of Dispersion
+### Measures of Dispersion
 - Standard Deviation
 - Variance (via covariance matrix)
 
-### 🔹 Measures of Spread
+### Measures of Spread
 - Minimum
 - Maximum
 - Quartiles (25%, 50%, 75%)
 - Percentiles
 
-### 🔹 Relationship Analysis
+### Relationship Analysis
 - Correlation
 - Covariance
 
 ---
 
-## 🧾 Statistical Summary
+## Statistical Summary
 - The dataset is clean and contains no missing values.
 - Wine classes are fairly balanced.
 - Several chemical attributes show high variability.
