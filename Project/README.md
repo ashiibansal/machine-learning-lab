@@ -119,8 +119,13 @@ streamlit run app.py
 
 ## 📁 Project Structure
 ML_Project/
+
 │── app.py
+
 │── model.pkl
+
 │── dataset.csv
+
 │── notebook.ipynb
+
 │── README.md
